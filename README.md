@@ -1,4 +1,4 @@
-📊 #Causal Inference with Randomized Controlled Trial (RCT)
+#Causal Inference with Randomized Controlled Trial (RCT)
 
 📝 Deskripsi
 Repositori ini berisi analisis Causal Inference menggunakan metode Randomized Controlled Trial (RCT) untuk mengevaluasi dampak suatu treatment terhadap outcome tertentu. Notebook ini mengeksplorasi perbedaan rata-rata pendapatan rumah tangga antara kelompok treated dan control serta menghitung Average Treatment Effect (ATE).
